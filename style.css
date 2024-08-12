@@ -1,0 +1,76 @@
+.nav-item{
+    position: relative;
+    float: right;
+   
+    padding: 20px; 
+    margin: 10px;
+    height: 20px;
+}
+.image{
+    width: 80px;
+    height: 50px;
+    padding: 2px;
+    margin-top: 5px;
+
+}
+.main{
+  width: 800px;
+}
+.image{
+  float: left;
+}
+.container{
+  padding: 40px;
+     
+}
+.col-md-2{
+margin: 90px;
+
+}
+.hero2 p{
+  font-size: 18px;
+}
+.sidebar{
+  position: -webkit-sticky;
+  position: sticky;
+}
+.submit{
+  background-color: red;
+  width: 100%;
+  margin-top:20px 
+  ;
+}
+body {
+  font-family: 'Arial', sans-serif;
+}
+.service-header {
+  background-color: #f1f1f1; 
+  padding: 30px 20px; 
+  text-align: center;
+  font-size: 24px; 
+}
+.service-box {
+  padding: 20px;
+  background-color: #ffffff; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+  margin-bottom: 20px; 
+}
+.service-box h3 {
+  font-size: 18px;
+  color: #333;
+  margin-top: 15px; 
+}
+.service-box p {
+  font-size: 14px; 
+  color: #666; 
+}
+.icon {
+  font-size: 50px;
+  color: #555;
+}
+.contact-img{
+     padding-left: 600px;top: 80px;
+       }
+       
+
+
